@@ -1,22 +1,6 @@
 {
-  "name": "MTK test token",
-  "symbol": "MTK",
-  "description": "This is my test SPL token on Solana.",
-  "image": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/spl-token-image-mtk.png",
-  "external_url": "https://example.com",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/spl-token-image-mtk.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "89oiRbNSqde1CgAa3H7aD1Qw3eBiZ1uSD4jwKWehf5iE",
-        "share": 100
-      }
-    ]
-  },
+  "name": "MTK test token 3",
+  "symbol": "MTK3",
+  "description": "Test Token 3",
+  "image": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/spl-token-image-mtk.png"
 }
