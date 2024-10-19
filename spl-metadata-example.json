@@ -2,12 +2,12 @@
   "name": "MTK test token",
   "symbol": "MTK",
   "description": "This is my test SPL token on Solana.",
-  "image": "https://example.com/token-image.png",
+  "image": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/spl-token-image-mtk.png",
   "external_url": "https://example.com",
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/token-image.png",
+        "uri": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/spl-token-image-mtk.png",
         "type": "image/png"
       }
     ],
