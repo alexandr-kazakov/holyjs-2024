@@ -1,0 +1,22 @@
+{
+  "name": "MTK test token",
+  "symbol": "MTK",
+  "description": "This is my test SPL token on Solana.",
+  "image": "https://example.com/token-image.png",
+  "external_url": "https://example.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "89oiRbNSqde1CgAa3H7aD1Qw3eBiZ1uSD4jwKWehf5iE",
+        "share": 100
+      }
+    ]
+  },
+}
