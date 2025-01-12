@@ -1,0 +1,33 @@
+{
+    "name": "HolyJS_24 #1",
+    "symbol": "HOLYJS_24",
+    "description": "Demo NFT for HolyJS 2024 Autumn",
+    "image": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/holyjs-24-logo.jpg",
+    "external_url": "https://holyjs.ru/",
+    "seller_fee_basis_points": 0,
+    "collection": {
+      "name": "HolyJS_2024",
+      "family": "HolyJS_2024"
+  },
+    "attributes": [
+        {
+            "trait_type": "Demo NFT",
+            "value": "HolyJS 2024 Autumn"
+        }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/alexandr-kazakov/holyjs-2024/refs/heads/main/holyjs-24-logo.jpg",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "89oiRbNSqde1CgAa3H7aD1Qw3eBiZ1uSD4jwKWehf5iE",
+          "share": 100
+        }
+      ]
+    }
+  }
